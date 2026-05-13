@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="./assets/raven-banner.png" alt="Raven — Guardrails before you ship." width="800"/>
+</p>
+
 # Raven-Guard-Codex
 
-> Enterprise production protection — OpenAI Codex implementation.
+> OpenAI Codex implementation of the Raven production protection layer.
 > Part of the [Raven platform](https://github.com/giggsoinc/raven-core). MIT License.
 > Built by [Giggso Inc](https://github.com/giggsoinc).
 
-*Nothing reaches production unchecked. On any AI agent.*
+*Guardrails before you ship.*
 
 ---
 
